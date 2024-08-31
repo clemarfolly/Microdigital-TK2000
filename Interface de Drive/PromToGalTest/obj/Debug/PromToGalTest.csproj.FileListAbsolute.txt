@@ -1,0 +1,7 @@
+C:\Users\cfolly\DropboxPessoal\Dropbox\TK 2000\Interface de Drive\PromToGalTest\bin\Debug\PromToGalTest.exe.config
+C:\Users\cfolly\DropboxPessoal\Dropbox\TK 2000\Interface de Drive\PromToGalTest\bin\Debug\PromToGalTest.exe
+C:\Users\cfolly\DropboxPessoal\Dropbox\TK 2000\Interface de Drive\PromToGalTest\bin\Debug\PromToGalTest.pdb
+C:\Users\cfolly\DropboxPessoal\Dropbox\TK 2000\Interface de Drive\PromToGalTest\obj\Debug\PromToGalTest.csproj.AssemblyReference.cache
+C:\Users\cfolly\DropboxPessoal\Dropbox\TK 2000\Interface de Drive\PromToGalTest\obj\Debug\PromToGalTest.csproj.CoreCompileInputs.cache
+C:\Users\cfolly\DropboxPessoal\Dropbox\TK 2000\Interface de Drive\PromToGalTest\obj\Debug\PromToGalTest.exe
+C:\Users\cfolly\DropboxPessoal\Dropbox\TK 2000\Interface de Drive\PromToGalTest\obj\Debug\PromToGalTest.pdb

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "TK2000")(type "KiCad")(uri "${KIPRJMOD}/TK2000.kicad_sym")(options "")(descr ""))
+)

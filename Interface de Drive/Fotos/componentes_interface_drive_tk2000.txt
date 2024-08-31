@@ -1,0 +1,69 @@
+﻿Q1 - BC558
+
+Q2 - BC557
+
+
+U1 - 74259
+
+U2 - 7400
+
+U3 - 555
+
+U4 - 74174
+
+U5 - 7405
+
+não existe U6 no layout
+
+U7 - 74138
+
+U8 - N82S135N (PROM,256X8)
+
+U9 - 74323
+
+U10 - N82S135N (PROM,256X8)
+
+U11 - 74138
+
+
+C1 - 10uFx25V (lado positivo em R2)
+
+C2 - 100nF (104)
+
+C3 - 10uFx25V
+
+C4 (próx. a U11) - 100nF (104)
+
+C5 (próx. a U11) - 10uFx25V
+C
+4 (próx. a C6) - 47pF (470)
+
+C5 (próx. a C6) - 47pF (470)
+
+C6 - 47pF (470)
+C7 - 47pF (470)
+
+
+R1 - 3K3 (LR, LR, VM)
+
+R2 - 22K (VM, VM, LR)
+
+não existe R3 no layout
+
+R4 - 3K3 (LR, LR, VM)
+
+R5 - 470R (AM, RX, MR) 
+
+R6 (próx. a U11) - 180
+R (MR, CZ, MR)
+
+R6 (próx. a R7) - vazio
+
+R7 - 100R (MR, PT, MR)
+
+não existe R8 no layout
+
+não existe R9 no layout
+
+R10 - 1K (MR, PT, VM)
+

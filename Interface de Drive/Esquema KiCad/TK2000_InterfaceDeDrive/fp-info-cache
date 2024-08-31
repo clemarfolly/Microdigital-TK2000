@@ -1,0 +1,36 @@
+8342259049979
+TK2000_InterfaceDeDrive
+C_Polarized_P5.00mm
+C, Disc series, Radial, pin pitch=5.00mm, , diameter*width=4.3*1.9mm^2, Capacitor, http://www.vishay.com/docs/45233/krseries.pdf
+C Disc series Radial pin pitch 5.00mm  diameter 4.3mm width 1.9mm Capacitor
+0
+2
+2
+TK2000_InterfaceDeDrive
+Conector Edge
+
+
+0
+50
+50
+TK2000_InterfaceDeDrive
+PinSocket_2x10_P2.54mm_Vertical
+Through hole straight socket strip, 2x10, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x10 2.54mm double row
+0
+20
+20
+TK2000_InterfaceDeDrive
+R_Axial_DIN0204_L3.6mm_D1.6mm_P4mm_Vertical
+Resistor, Axial_DIN0204 series, Axial, Vertical, pin pitch=5.08mm, 0.167W, length*diameter=3.6*1.6mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+Resistor Axial_DIN0204 series Axial Vertical pin pitch 5.08mm 0.167W length 3.6mm diameter 1.6mm
+0
+2
+2
+TK2000_InterfaceDeDrive
+TO-92_Wide
+TO-92 leads molded, wide, drill 0.75mm (see NXP sot054_po.pdf)
+to-92 sc-43 sc-43a sot54 PA33 transistor
+0
+3
+3

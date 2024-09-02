@@ -20,8 +20,8 @@ A reprodução do projeto foi realizada sem acesso físico à placa original, co
 A placa é dupla face e o tamanho final ficou com 237x170 mm.
 
 <p align="center">
-  <img height="300" src="https://github.com/user-attachments/assets/b929285a-dc39-40ad-9baa-c7ed39590151" hspace="20">
-  <img height="300" src="https://github.com/user-attachments/assets/beae97be-41e8-4d71-9df0-1ffe6181d6e7" hspace="20">
+  <img height="250" src="https://github.com/user-attachments/assets/b929285a-dc39-40ad-9baa-c7ed39590151" hspace="20">
+  <img height="250" src="https://github.com/user-attachments/assets/beae97be-41e8-4d71-9df0-1ffe6181d6e7" hspace="20">
 </p>
 
 ### Comparação com a placa original

@@ -1,4 +1,4 @@
-# Microdigital - K2000
+# Microdigital - TK2000
 
 <p align="center">
     <img  height="200" src="https://github.com/user-attachments/assets/b7c42dfb-7c5d-46b4-8caf-4119a7e99b1b">

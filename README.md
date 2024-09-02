@@ -37,6 +37,12 @@ A parte de RF foi removida e no lugar colocada uma saída de áudio. Além disso
 
 Na seção de releases desta página, você encontrará todos os arquivos necessários para a fabricação da placa: o gerber em formato zip, o esquema em PDF e a lista interativa de materiais em HTML. Basta enviar o arquivo zip para a sua fabricante de PCB de preferência.
 
+### Chip customizado
+
+A montagem requer a gravação de um chip PLD GAL16V8, o conteúdo está na pasta PAL. Mais detalhes em: 
+
+https://www.facebook.com/groups/cidadedosclassicos/posts/5769043533153302/?paipv=0&eav=AfbpHolPJ6P4nDAmXXkvS--qkC2yUR-xJ5SVl_j7wmNv-nLbxHa_C_v81FATnQMoCv0&_rdr
+
 ## Créditos
 
 ### Recriação da Placa: 
